@@ -375,7 +375,7 @@
 {"key":"py_公益云盘","name":"公益云盘┃PY","type":3,"api":"py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_alist.py"},
 {"key":"py_阿里推送","name":"阿里推送┃PY","type":3,"api":"py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_ali.py"},
 {"key":"py_虎牙视频","name":"虎牙视频┃PY","type":3,"api":"py_huya","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_huya.py"},
-{"key":"py_斗鱼视频","name":"斗鱼视频┃PY","type":3,"api":"py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douyu.py"}
+{"key":"py_斗鱼视频","name":"斗鱼视频┃PY","type":3,"api":"py_douyu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douyu.py"},
     {
             "key" : "py_cctv",
             "name" : "🌏央视频道py",
