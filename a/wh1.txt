@@ -346,7 +346,7 @@
     },
 {"key":"py_豆瓣影视","name":"豆瓣影视┃PY","type":3,"api":"py_douban","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/py_douban.py"},
 {"key":"py_酷云七七","name":"酷云七七┃PY","type":3,"api":"py_kunyu77","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/酷云七七.py"},
-{"key":"py_厂长影视","name":"厂长影视┃PY","type":3,"api":"py_czspp","searchable": 0,"quickSearch": 0,,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/厂长.py"},
+{"key":"py_厂长影视","name":"厂长影视┃PY","type":3,"api":"py_czspp","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/厂长.py"},
 {"key":"py_爱看影视","name":"爱看影视┃PY","type":3,"api":"py_ikan","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/爱看.py"}, 
 {"key":"py_可乐影视","name":"可乐影视┃PY","type":3,"api":"py_cokemv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/cokemv.py"}, 
 {"key":"py_猫咪影视","name":"猫咪影视┃PY","type":3,"api":"py_xmaomi","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/PY/猫咪.py"},
