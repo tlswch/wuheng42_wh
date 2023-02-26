@@ -45,7 +45,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod",
-      "jar": "./jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"  
+      "jar": "./jar/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98"  
     },
     {
       "key":"BuLei",
@@ -73,7 +73,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar": "./jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"
+      "jar": "./jar/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98"
     },
     {
       "key":"csp_xBPQ_爱看",
