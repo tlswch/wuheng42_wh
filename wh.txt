@@ -64,7 +64,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "jar":"./jar/新视觉.jar;md5;270DBFA23C76AFCA73CD7E5D1430F23C"
+      "jar":"./jar/新视觉.jar;md5;52F334CA1E3AA5F91613A936A6403461"
     },
     {
       "key":"快看",
