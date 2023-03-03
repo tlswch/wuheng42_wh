@@ -48,6 +48,15 @@
       "jar": "./jar/loamen_spider1.jar;md5;0A05825C82A070067A97405320D1AC98"  
     },
     {
+            "key": "csp_app_源头",
+            "name": "🐈┃肥猫┃影院",
+            "type": 1,
+            "api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+},
+    {
       "key":"BuLei",
       "name":"💧布蕾蓝光",
       "type":3,"api":"csp_BuLei",
